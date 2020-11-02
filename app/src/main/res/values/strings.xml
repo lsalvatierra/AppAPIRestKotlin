@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppAPIRestKotlin</string>
+    <string name="valtvtitulo">CONSUMO DE API WEB REST</string>
+</resources>
